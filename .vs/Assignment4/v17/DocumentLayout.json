@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\userController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\userController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\productController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\productController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\orderController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\orderController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\commentController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\commentController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\cartController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\cartController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
@@ -37,26 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\userController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\userController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\productController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\productController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\orderController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\orderController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\commentController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\commentController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\cartController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Controllers\\cartController.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,47 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "userController.js",
-              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\userController.js",
-              "RelativeDocumentMoniker": "Controllers\\userController.js",
-              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\userController.js",
-              "RelativeToolTip": "Controllers\\userController.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:07:54.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "commentController.js",
               "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\commentController.js",
               "RelativeDocumentMoniker": "Controllers\\commentController.js",
               "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\commentController.js",
               "RelativeToolTip": "Controllers\\commentController.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:07:32.109Z"
+              "WhenOpened": "2024-04-09T01:07:32.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 4,
               "Title": "cartController.js",
               "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\cartController.js",
               "RelativeDocumentMoniker": "Controllers\\cartController.js",
               "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\cartController.js",
               "RelativeToolTip": "Controllers\\cartController.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:07:22.967Z"
+              "WhenOpened": "2024-04-09T01:07:22.967Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "user.js",
               "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\user.js",
               "RelativeDocumentMoniker": "Models\\user.js",
@@ -119,33 +109,82 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "db.js",
+              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\db.js",
+              "RelativeDocumentMoniker": "db.js",
+              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\db.js",
+              "RelativeToolTip": "db.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-09T01:05:31.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "comment.js",
+              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\comment.js",
+              "RelativeDocumentMoniker": "Models\\comment.js",
+              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\comment.js",
+              "RelativeToolTip": "Models\\comment.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-09T01:06:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "order.js",
+              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\order.js",
+              "RelativeDocumentMoniker": "Models\\order.js",
+              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\order.js",
+              "RelativeToolTip": "Models\\order.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-09T01:06:39.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "orderController.js",
+              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\orderController.js",
+              "RelativeDocumentMoniker": "Controllers\\orderController.js",
+              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\orderController.js",
+              "RelativeToolTip": "Controllers\\orderController.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-09T01:07:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "product.js",
-              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\product.js",
-              "RelativeDocumentMoniker": "Models\\product.js",
-              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\product.js",
-              "RelativeToolTip": "Models\\product.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Title": "productController.js",
+              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\productController.js",
+              "RelativeDocumentMoniker": "Controllers\\productController.js",
+              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\productController.js",
+              "RelativeToolTip": "Controllers\\productController.js",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:07:00.298Z",
+              "WhenOpened": "2024-04-09T01:07:46.968Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "cart.js",
-              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\cart.js",
-              "RelativeDocumentMoniker": "Models\\cart.js",
-              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\cart.js",
-              "RelativeToolTip": "Models\\cart.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "userController.js",
+              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\userController.js",
+              "RelativeDocumentMoniker": "Controllers\\userController.js",
+              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\userController.js",
+              "RelativeToolTip": "Controllers\\userController.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:06:51.797Z",
+              "WhenOpened": "2024-04-09T01:07:54.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "index.js",
               "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\index.js",
               "RelativeDocumentMoniker": "index.js",
@@ -157,46 +196,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "db.js",
-              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\db.js",
-              "RelativeDocumentMoniker": "db.js",
-              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\db.js",
-              "RelativeToolTip": "db.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "DocumentIndex": 9,
+              "Title": "cart.js",
+              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\cart.js",
+              "RelativeDocumentMoniker": "Models\\cart.js",
+              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\cart.js",
+              "RelativeToolTip": "Models\\cart.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:05:31.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T01:06:51.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "comment.js",
-              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\comment.js",
-              "RelativeDocumentMoniker": "Models\\comment.js",
-              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\comment.js",
-              "RelativeToolTip": "Models\\comment.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "product.js",
+              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\product.js",
+              "RelativeDocumentMoniker": "Models\\product.js",
+              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\product.js",
+              "RelativeToolTip": "Models\\product.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:06:45.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-09T01:07:00.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "order.js",
-              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\order.js",
-              "RelativeDocumentMoniker": "Models\\order.js",
-              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Models\\order.js",
-              "RelativeToolTip": "Models\\order.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:06:39.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "package.json",
               "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -208,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "package-lock.json",
               "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\package-lock.json",
               "RelativeDocumentMoniker": "package-lock.json",
@@ -217,30 +241,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-04-09T01:09:58.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "orderController.js",
-              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\orderController.js",
-              "RelativeDocumentMoniker": "Controllers\\orderController.js",
-              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\orderController.js",
-              "RelativeToolTip": "Controllers\\orderController.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:07:38.695Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "productController.js",
-              "DocumentMoniker": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\productController.js",
-              "RelativeDocumentMoniker": "Controllers\\productController.js",
-              "ToolTip": "C:\\Users\\solan\\OneDrive\\Documents\\Rahul\\Conestoga\\WT\\Assignment4\\Assignment4\\Controllers\\productController.js",
-              "RelativeToolTip": "Controllers\\productController.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-09T01:07:46.968Z"
             }
           ]
         }
