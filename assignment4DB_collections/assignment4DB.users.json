@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "66159c320c7ec00ba450f946"
+  },
+  "email": "alexander.brown@hotmail.com",
+  "password": "abrown@123",
+  "username": "alexbrown",
+  "purchaseHistory": [],
+  "shippingAddress": "321 Oak Lane, London, UK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6615ab410c7ec00ba450f96f"
+  },
+  "email": "jane.doe@gmail.com",
+  "password": "jdoe98765",
+  "username": "janedoe",
+  "purchaseHistory": [],
+  "shippingAddress": "456 Park St, Waterloo, Canada",
+  "__v": 0
+}]

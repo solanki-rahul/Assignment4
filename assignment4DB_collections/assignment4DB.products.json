@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "661598810c7ec00ba450f941"
+  },
+  "description": "Dell XPS 13",
+  "image": "xps13.jpg",
+  "pricing": 1399,
+  "shippingCost": 30,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6615a6ad0c7ec00ba450f969"
+  },
+  "description": "Samsung S24",
+  "image": "s24.jpg",
+  "pricing": 1199,
+  "shippingCost": 35,
+  "__v": 0
+}]

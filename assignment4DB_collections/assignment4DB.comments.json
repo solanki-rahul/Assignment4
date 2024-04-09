@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "66159c680c7ec00ba450f949"
+  },
+  "product": {
+    "$oid": "609c4f56dce41a2e20c7a33c"
+  },
+  "user": {
+    "$oid": "609c4f56dce41a2e20c7a33d"
+  },
+  "rating": 5,
+  "images": [
+    "feedback.jpg"
+  ],
+  "text": "Excellent service and fast delivery!",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66159c740c7ec00ba450f94b"
+  },
+  "product": {
+    "$oid": "609c4f56dce41a2e20c7a33e"
+  },
+  "user": {
+    "$oid": "609c4f56dce41a2e20c7a33f"
+  },
+  "rating": 3,
+  "images": [
+    "review.jpg"
+  ],
+  "text": "Average product quality, but shipping took longer than expected.",
+  "__v": 0
+}]
