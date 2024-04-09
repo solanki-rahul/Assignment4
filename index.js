@@ -11,7 +11,8 @@ const orderController = require('./controllers/orderController');
 const app = express();
 
 // Middleware
-app.use(bodyParser.json());
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
 // Product Endpoints
